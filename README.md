@@ -1,30 +1,3 @@
-# Birthday Countdown App
-
-A beautiful, modern mobile app built with Capacitor that helps users track days until their birthday and share the countdown with friends. The app features an elegant UI, in-app notifications, and system notifications.
-
-![Birthday App](src/assets/imgs/home.jpg)
-
-## Features
-
-### 1. Birthday Countdown Calculator
-Enter your birth date in DD/MM format and instantly see how many days are left until your next birthday. The app provides personalized messages based on how far away your birthday is.
-
-![Birthday Countdown](src/assets/imgs/logo.png)
-
-### 2. Smart Notifications
-Receive both in-app and system notifications about your birthday countdown. The notification style changes based on how close your birthday is.
-
-![Notifications](src/assets/imgs/notification.jpg)
-
-### 3. Social Sharing
-Share your birthday countdown with friends and family with just one tap. The sharing message is customized based on your birthday date and countdown.
-
-![Share Feature](src/assets/imgs/share.jpg)
-
-### 4. Device Integration
-- Battery status monitoring
-- Device-native notifications
-- Responsive design that works across different screen sizes
 
 ## Installation
 
